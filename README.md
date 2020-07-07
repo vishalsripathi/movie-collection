@@ -11,5 +11,5 @@
 * Javascript(ES6)
 * Bootstrap 4
 
-## Authors
+## Author
 * **Vishal Sripathi** - [vishalsripathi](https://github.com/vishalsripathi)
