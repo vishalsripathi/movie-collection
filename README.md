@@ -1,7 +1,7 @@
 # Movie Collection
  Movie Collection app is your personal movie database.
  
-## Visit Project Planner
+## Visit Database
 * [Click Here](https://movie-collection.netlify.app/)
 
 ## Getting Started
